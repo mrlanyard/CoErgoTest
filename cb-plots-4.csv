@@ -1,0 +1,11 @@
+labels,parents,Values
+CB-1-2-15,,
+Contacts,CB-1-2-15,1
+Operating Mechanism,CB-1-2-15,1
+Electrical Insulation,CB-1-2-15,2
+Contact Wear Monitoring,Contacts,
+Electrical Test,Contacts,
+Trip Coil Profile,Operating Mechanism,
+Timing,Operating Mechanism,
+Electrical Test,Electrical Insulation,
+SF6 Monitoring,Electrical Insulation,
